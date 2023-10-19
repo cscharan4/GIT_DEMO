@@ -1,0 +1,6 @@
+Hello master
+<<<<<<< HEAD
+Hello f-1
+=======
+Hello f-2
+>>>>>>> f-2
